@@ -5,7 +5,7 @@ class PositivoNegativo {
 
         Scanner input = new Scanner(System.in);
         while (true){
-            System.out.println("Digite um número inteiro: ");
+            System.out.println("Digite um numero inteiro: ");
 
             int numero = input.nextInt();    
             if (numero > 0){
